@@ -5,6 +5,7 @@ Iniciando programação em Java
 
 Instruções
 Desenvolver programas em Java para resolver os seguintes problemas (prática de entrada/saída, tipos de variáveis e técnicas de programação simples):
+
 1 - Ler 3 números inteiros da entrada, imprimir o menor e o maior.
 
 2 - Ler 10 números inteiros, armzená-los num vetor e imprimir na ordem inversa.
