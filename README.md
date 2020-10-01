@@ -20,6 +20,6 @@ Desenvolver programas em Java para resolver os seguintes problemas (prática de 
         
         |     m < 2      | reprovado |
         
-        | 2 <= m < 6 |    exame    |
+        | 2 <= m < 6     |   exame   |
         
-        |     m >= 6    |  aprovado |
+        |     m >= 6     |  aprovado |
