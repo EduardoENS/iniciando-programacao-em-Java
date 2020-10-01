@@ -1,4 +1,4 @@
-# iniciando-programa-o-em-Java
+# iniciando-programacao-em-Java
 Atividade para a matéria de Estrutura de Dados na FATEC.
 
 Iniciando programação em Java
