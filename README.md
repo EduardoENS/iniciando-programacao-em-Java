@@ -17,6 +17,9 @@ Desenvolver programas em Java para resolver os seguintes problemas (prática de 
 5 - Ler uma quantidade não determinada de pares de números [m, n] todos inteiros e positivos. Para cada par lido, o programa deve calcular e mostrar a soma de todos os números inteiros entre m e n (inclusive). A digitação terminará quando o usuário digitar valores para m e n tais que m >= n.
 
 6 - Ler três notas de um aluno, calcular e mostrar a média aritmética e uma mensagem de acordo com a tabela a seguir. Para alunos que ficaram para exame, o programa deve calcular e mostrar a nota que deverão tirar para serem aprovados, considerando que a média para aprovação é 6,0.
+        
         |     m < 2      | reprovado |
+        
         | 2 <= m < 6 |    exame    |
+        
         |     m >= 6    |  aprovado |
